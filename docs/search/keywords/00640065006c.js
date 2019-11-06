@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("del",["Function"],[["deletepre(gmshoption1,gmshoption2,geolable,popupMenu,gmshcheck,geobutton,geobutton1,makemshbutton):",,[[,,,,0,"File:gui.py:deletepre(gmshoption1,gmshoption2,geolable,popupMenu,gmshcheck,geobutton,geobutton1,makemshbutton)_"]]],["deletesolver",,[[,,,,0,"File:gui.py:deletesolver"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ask",["Function"],[["askdirectory",,[[,,,,0,"File:gui.py:askdirectory"]]],["askopenfilename",,[[,,,,0,"File:gui.py:askopenfilename"]]]]);

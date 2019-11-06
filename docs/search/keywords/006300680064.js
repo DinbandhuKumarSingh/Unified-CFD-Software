@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("chd",["Function"],[["chdir",,[[,,,,0,"File:gui.py:chdir"]]]]);

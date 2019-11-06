@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("lab",["Variable"],[["Label",,[[,,,,0,"File:gui.py:Label"]]]]);

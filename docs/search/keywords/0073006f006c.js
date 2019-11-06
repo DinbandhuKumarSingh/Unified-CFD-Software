@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sol",["Function"],[["Solving",,[[,,,,0,"File:gui.py:Solving"]]]]);

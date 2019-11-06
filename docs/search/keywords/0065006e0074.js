@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ent",["Function"],[["entryconfigure",,[[,,,,0,"File:gui.py:entryconfigure"]]]]);

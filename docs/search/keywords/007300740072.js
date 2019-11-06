@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("str",["Function","Variable"],[["strcat",,[[,,,,0,"File:queue.cpp:strcat"]]],["StringVar",,[[,,,,1,"File:gui.py:StringVar"]]]]);

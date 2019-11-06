@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("new",["Function"],[["New",,[[,,,,0,"File:gui.py:New"]]]]);

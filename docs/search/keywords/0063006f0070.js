@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cop",["Function"],[["copy2",,[[,,,,0,"File:gui.py:copy2"]]]]);

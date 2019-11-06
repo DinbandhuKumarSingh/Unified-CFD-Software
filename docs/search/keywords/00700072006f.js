@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pro",["Variable"],[["projectnameText",,[[,,,,0,"File:gui.py:projectnameText"]]],["projectpathText",,[[,,,,0,"File:gui.py:projectpathText"]]]]);

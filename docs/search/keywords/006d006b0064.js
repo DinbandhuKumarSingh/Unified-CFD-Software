@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mkd",["Function"],[["mkdir",,[[,,,,0,"File:gui.py:mkdir"]]]]);

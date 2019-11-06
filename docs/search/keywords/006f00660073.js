@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ofs",["Variable"],[["ofstream",,[[,,,,0,"File:queue.cpp:ofstream"]]]]);
